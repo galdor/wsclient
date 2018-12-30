@@ -1,0 +1,8 @@
+package: github.com/galdor/wsclient
+import:
+- package: github.com/galdor/go-cmdline
+  version: v1.1.0
+- package: github.com/gorilla/websocket
+  version: v1.4.0
+- package: github.com/pkg/errors
+  version: v0.8.0
