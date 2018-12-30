@@ -1,0 +1,8 @@
+
+[![Build Status](https://travis-ci.org/galdor/wsclient.svg?branch=master)](https://travis-ci.org/galdor/wsclient)
+
+# Introduction
+
+This is a simple interactive websocket client. I regularly need to debug
+websocket services, so it is useful to be able to just connect to the
+endpoint, send messages and read responses.
